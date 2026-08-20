@@ -47,12 +47,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaovictor03013-svg&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor03013-svg&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictor03013-svg&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ### 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joaovictor03013-svg&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -69,10 +69,10 @@
 
 <p align="center">
   <a href="https://github.com/SEU_USUARIO/PROJETO_1">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_1&theme=radical&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor03013-svg&repo=PROJETO_1&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/SEU_USUARIO/PROJETO_2">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_2&theme=radical&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor03013-svg&repo=PROJETO_2&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 ### 🐍 Atividade recente
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/joaovictor03013-svg/joaovictor03013-svg/output/github-contribution-grid-snake.svg" />
 </p>
 
 > Configuração: https://github.com/Platane/snk
@@ -89,5 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas%20ao%20perfil&color=2E9EF7&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=joaovictor03013-svg&label=Visitas%20ao%20perfil&color=2E9EF7&style=flat" />
 </p>
