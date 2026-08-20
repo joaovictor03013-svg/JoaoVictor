@@ -41,7 +41,6 @@
   <img style="110%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=true&fontSize=80&fontColor=0018Ff&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 </p>
-
 ### 🚀 Sobre mim
 
 - 🌱 Aprendendo mais sobre hardware
