@@ -73,7 +73,10 @@
 ### 🐍 Atividade recente
 
 <p align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/joaovictor03013-svg/joaovictor03013-svg/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 </p>
 
 > Configuração: https://github.com/Platane/snk
