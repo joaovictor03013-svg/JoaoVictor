@@ -58,5 +58,3 @@
 ###
 
 </p>
-
-> Configuração: https://github.com/Platane/snk
