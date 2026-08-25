@@ -39,8 +39,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaovictor03013-svg&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor03013-svg&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?user=joaovictor03013-svg&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?user=joaovictor03013-svg&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
