@@ -1,7 +1,6 @@
 # joaovictor03013-svg
 
 <h1 align="center">Prazer, João Victor</h1>
-
 <h3 align="center">Futuro desenvolvedor de apps, gosto muito de games e filmes de super-heróis</h3>
 
 <p align="center">
@@ -10,37 +9,25 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://SEUPORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
   </a>
   <a href="mailto:SEU_EMAIL@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/SEU_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-<picture>
-  <img width="880" height="206" alt="github-contribution-grid-snake" src="https://github.com/user-attachments/assets/cf078c0c-d6f9-486f-b84b-175b7e7152de" />
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=true&fontSize=80&fontColor=0018Ff&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" alt="Banner" />
 </p>
 
----
-
-<p align="center">
-<div data-importer="border">
-  <img style="110%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=true&fontSize=80&fontColor=0018Ff&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-</p>
 ### 🚀 Sobre mim
 
 - 🌱 Aprendendo mais sobre hardware
@@ -52,12 +39,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaovictor03013-svg&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor03013-svg&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaovictor03013-svg&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor03013-svg&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictor03013-svg&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictor03013-svg&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
 ---
@@ -65,7 +52,7 @@
 ### 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaovictor03013-svg&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joaovictor03013-svg&theme=radical&no-frame=true&row=1&column=6" alt="Troféus" />
 </p>
 
 ---
@@ -73,11 +60,11 @@
 ### 📌 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/PROJETO_1">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor03013-svg&repo=PROJETO_1&theme=radical&hide_border=true" />
+  <a href="https://github.com/joaovictor03013-svg/PROJETO_1">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor03013-svg&repo=PROJETO_1&theme=radical&hide_border=true" alt="Projeto 1" />
   </a>
-  <a href="https://github.com/SEU_USUARIO/PROJETO_2">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor03013-svg&repo=PROJETO_2&theme=radical&hide_border=true" />
+  <a href="https://github.com/joaovictor03013-svg/PROJETO_2">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor03013-svg&repo=PROJETO_2&theme=radical&hide_border=true" alt="Projeto 2" />
   </a>
 </p>
 
@@ -86,13 +73,7 @@
 ### 🐍 Atividade recente
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaovictor03013-svg/joaovictor03013-svg/output/github-contribution-grid-snake.svg" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 </p>
 
 > Configuração: https://github.com/Platane/snk
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaovictor03013-svg&label=Visitas%20ao%20perfil&color=2E9EF7&style=flat" />
-</p>
