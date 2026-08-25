@@ -47,26 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictor03013-svg&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
----
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaovictor03013-svg&theme=radical&no-frame=true&row=1&column=6" alt="Troféus" />
-</p>
-
----
-
-### 📌 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/joaovictor03013-svg/PROJETO_1">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor03013-svg&repo=PROJETO_1&theme=radical&hide_border=true" alt="Projeto 1" />
-  </a>
-  <a href="https://github.com/joaovictor03013-svg/PROJETO_2">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor03013-svg&repo=PROJETO_2&theme=radical&hide_border=true" alt="Projeto 2" />
-  </a>
-</p>
 
 ---
 
