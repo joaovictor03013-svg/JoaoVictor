@@ -14,7 +14,7 @@
   <a href="https://SEUPORTFOLIO.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
   </a>
-  <a href="mailto:SEU_EMAIL@email.com">
+  <a href="mailto:joavictor03.013@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/SEU_TWITTER" target="_blank">
